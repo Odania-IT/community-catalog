@@ -1,0 +1,9 @@
+---
+name: JobFramework
+description: |
+  (Experimental) Basic Job Management Framework
+version: 0.0.1
+category: Continuous Integration
+maintainer: Mike Petersen <mike@odania-it.com>
+license: Apache2
+projectURL: https://github.com/Odania-IT/job-framework

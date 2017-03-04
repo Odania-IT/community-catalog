@@ -1,0 +1,12 @@
+.catalog:
+  name: Job-Framework
+  version: 0.0.1
+  description: |
+    Job-Framework server.
+  questions:
+  - variable: "PORT"
+    type: "int"
+    label: "Port Number"
+    description: "Which port should the Job-Framework listen on?"
+    default: 8000
+    required: true
